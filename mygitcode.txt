@@ -1,1 +1,2 @@
-hi this is my first git code.
+Hi This is my frst git code.
+Adding a new line.
